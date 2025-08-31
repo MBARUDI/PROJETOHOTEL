@@ -1,0 +1,14 @@
+C:\Users\mdbar\Documents\projetohotel\bin\Debug\net9.0\projetohotel.exe
+C:\Users\mdbar\Documents\projetohotel\bin\Debug\net9.0\projetohotel.deps.json
+C:\Users\mdbar\Documents\projetohotel\bin\Debug\net9.0\projetohotel.runtimeconfig.json
+C:\Users\mdbar\Documents\projetohotel\bin\Debug\net9.0\projetohotel.dll
+C:\Users\mdbar\Documents\projetohotel\bin\Debug\net9.0\projetohotel.pdb
+C:\Users\mdbar\Documents\projetohotel\obj\Debug\net9.0\projetohotel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mdbar\Documents\projetohotel\obj\Debug\net9.0\projetohotel.AssemblyInfoInputs.cache
+C:\Users\mdbar\Documents\projetohotel\obj\Debug\net9.0\projetohotel.AssemblyInfo.cs
+C:\Users\mdbar\Documents\projetohotel\obj\Debug\net9.0\projetohotel.csproj.CoreCompileInputs.cache
+C:\Users\mdbar\Documents\projetohotel\obj\Debug\net9.0\projetohotel.dll
+C:\Users\mdbar\Documents\projetohotel\obj\Debug\net9.0\refint\projetohotel.dll
+C:\Users\mdbar\Documents\projetohotel\obj\Debug\net9.0\projetohotel.pdb
+C:\Users\mdbar\Documents\projetohotel\obj\Debug\net9.0\projetohotel.genruntimeconfig.cache
+C:\Users\mdbar\Documents\projetohotel\obj\Debug\net9.0\ref\projetohotel.dll
